@@ -2,6 +2,7 @@
 *.swp
 *.*~
 *.log
+*.log*
 *.sqlite3
 .environment_version
 .selenium_log
